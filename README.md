@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
