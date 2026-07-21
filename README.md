@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
