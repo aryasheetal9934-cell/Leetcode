@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1158-market-analysis-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
