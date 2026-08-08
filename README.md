@@ -76,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0283-move-zeroes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
